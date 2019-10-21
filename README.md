@@ -3,5 +3,8 @@ Javascript Examples
 
 For start the project:
 
-npm install
-parcel ./index.html
+-npm install
+
+
+
+-parcel ./index.html
